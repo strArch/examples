@@ -54,6 +54,14 @@ Node.js, SQL javascript, html5, css
 We were tasked to build a prototype system that can be used as a tool to evaluate courses. 
 It had a web client and a server part. 
 
+<p float="left">
+  <img src="/project_servers-and-clients/images/toekomstige_situatie_use_case (1).png" width="400" />
+</p>
+### db design 
+<p float="left">
+  <img src="/project_servers-and-clients/images/db.png" width="700" />
+</p>
+
 ### screenshots of end result
 
 <p float="left">
