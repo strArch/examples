@@ -57,7 +57,8 @@ It had a web client and a server part.
 <p float="left">
   <img src="/project_servers-and-clients/images/toekomstige_situatie_use_case (1).png" width="400" />
 </p>
-### db design 
+### database_design 
+
 <p float="left">
   <img src="/project_servers-and-clients/images/db.png" width="700" />
 </p>
@@ -70,3 +71,5 @@ It had a web client and a server part.
 	<img src="/project_servers-and-clients/images/screenshot_admin.png" width="550" />
 	<img src="/project_servers-and-clients/images/screenshot_login.png" width="550" />
 </p>
+
+### project compilers
