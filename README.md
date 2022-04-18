@@ -1,7 +1,7 @@
 # Project Speelveld: Knightraid
 ### goal of the project
 
-Build a tower defense game in Android
+Build a tower defense game in Android (In java, without a game engine)
 
 ### images
 <p float="left">
@@ -14,8 +14,7 @@ Build a tower defense game in Android
 ![screenshot from the final project](project_speelveld/images/demo.png?raw=true "Title")
 
 ### apk of the project
-[a relative link](project_speelveld/KnightRaid%20(1).apk)
-	[title](https://github.com/strArch/1/blob/43b36f9b857c4f66c6d2e52214501de3c337f5f2/project_speelveld/KnightRaid%20(1).apk)
+[link to the apk](project_speelveld/KnightRaid%20(1).apk)
 
 
 # Project Persistant
@@ -42,3 +41,13 @@ Java, Android
 	 <img src="/project_persistant/images/room_finder_mockup_2.jpg" width="250" />
 	 <img src="/project_persistant/images/room_finder_mockup1.jpg" width="250" />
 </p>
+
+# Project Servers & Clients
+
+### technologies
+
+Node.js, javascript, html5, css
+
+### task description
+
+We were tasked duild a server and a web client for a system that is capable of evaluating modules. 
