@@ -16,3 +16,29 @@ Build a tower defense game in Android
 ### apk of the project
 [a relative link](project_speelveld/KnightRaid%20(1).apk)
 	[title](https://github.com/strArch/1/blob/43b36f9b857c4f66c6d2e52214501de3c337f5f2/project_speelveld/KnightRaid%20(1).apk)
+
+
+# Project Persistant
+
+### technologies
+
+Java, Android
+
+### task description
+
+> Tot op heden kunnen ruimtes alleen ingeboekt worden door een vergadering te beleggen via MS Outlook. Bij de ruimtes zelf is echter niet duidelijk of deze            > gereserveerd zijn, wanneer, waarvoor en door wie. Er dus behoefte aan een duidelijke agenda voor elke boekbare ruimte. Daarnaast dient een ruimte snel en          > gemakkelijk ter plekke te reserveren te zijn, zodat er ad-hoc gebruik van gemaakt kan worden, zonder anderen te hinderen.
+
+> Gedacht wordt aan een oplossing op basis van compacte tablets, welke in een stevige behuizing aan de muur
+> gemonteerd kunnen worden. 
+
+### images
+<p float="left">
+  <img src="/project_persistant/images/room_finder_mockup8.jpg" width="250" />
+ <img src="/project_persistant/images/room_finder_mockup7.jpg" width="250" />
+	 <img src="/project_persistant/images/room_finder_mockup6.jpg" width="250" />
+	 <img src="/project_persistant/images/room_finder_mockup5.jpg" width="250" />
+	 <img src="/project_persistant/images/room_finder_mockup4.jpg" width="250" />
+	 <img src="/project_persistant/images/room_finder_mockup3.jpg" width="250" />
+	 <img src="/project_persistant/images/room_finder_mockup_2.jpg" width="250" />
+	 <img src="/project_persistant/images/room_finder_mockup1.jpg" width="250" />
+</p>
