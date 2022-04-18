@@ -1,5 +1,9 @@
 # Project Speelveld: Knightraid
+### goal of the project
+
 Build a tower defense game in Android
+
+### images
 <p float="left">
   <img src="/project_speelveld/images/projectlogo.png" width="250" /
 <p float="left">
