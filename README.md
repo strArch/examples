@@ -31,6 +31,7 @@ Java, Android
 > gemonteerd kunnen worden. 
 
 ### images
+click on image to see enlarged version.
 <p float="left">
   <img src="/project_persistant/images/room_finder_mockup8.jpg" width="250" />
  <img src="/project_persistant/images/room_finder_mockup7.jpg" width="250" />
@@ -46,8 +47,18 @@ Java, Android
 
 ### technologies
 
-Node.js, javascript, html5, css
+Node.js, SQL javascript, html5, css
 
 ### task description
 
-We were tasked duild a server and a web client for a system that is capable of evaluating modules. 
+We were tasked to build a prototype system that can be used as a tool to evaluate courses. 
+It had a web client and a server part. 
+
+### screenshots of end result
+
+<p float="left">
+  <img src="/project_servers-and-clients/images/screenshot_dashboard.png" width="550" />
+	<img src="/project_servers-and-clients/images/screenshot_adduser.png" width="550" />
+	<img src="/project_servers-and-clients/images/screenshot_admin.png" width="550" />
+	<img src="/project_servers-and-clients/images/screenshot_login.png" width="550" />
+</p>
